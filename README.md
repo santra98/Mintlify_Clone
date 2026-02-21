@@ -6,6 +6,10 @@ A static website clone of the Mintlify landing page, built using HTML5 and CSS3.
 
 This project is a faithful recreation of the Mintlify documentation platform's homepage. It features a modern, responsive design with sections for hero content, features, trusted companies, and more.
 
+## Live Demo
+
+Check out the live deployment: [https://the-mintlify-clone.netlify.app/](https://the-mintlify-clone.netlify.app/)
+
 ## Tech Stack
 
 - **HTML5**: For the structure and content of the webpage
